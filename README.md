@@ -144,26 +144,35 @@ Results are also available in plain text in [rates.txt](qualityIncompleteMainten
 
 By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset. We considered both exceptions and violations to synthesize in the initial RBAC state.
 
+Results for additions of exceptions
 
-**SmallComp**. 
-Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+- [SmallComp](preferencesImpactMaintenance/Avg_quality_smallcomp_exc.dat)
+- [Domino](preferencesImpactMaintenance/Avg_quality_domino_exc.dat)
+- [University](preferencesImpactMaintenance/Avg_quality_university_exc.dat)
+
+Results for removal of violations
+
+- [SmallComp](preferencesImpactMaintenance/Avg_quality_smallcomp_viol.dat)
+- [Domino](preferencesImpactMaintenance/Avg_quality_domino_viol.dat)
+- [University](preferencesImpactMaintenance/Avg_quality_university_viol.dat)
+
+
+**SmallComp**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![smallcomp_optsim_excs_viols.png](imgMaintenance/smallcomp_optsim_excs_viols.png)
 
-Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+**SmallComp**. Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![smallcomp_roleass.png](imgMaintenance/smallcomp_roleass.png)
 
-**Domino**
-Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+**Domino**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![domino_optsim_excs_viols.png](imgMaintenance/domino_optsim_excs_viols.png)
 
-Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+**Domino**. Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![domino_roleass.png](imgMaintenance/domino_roleass.png)
 
-**University**
-Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+**University**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![university_optsim_excs_viols.png](imgMaintenance/university_optsim_excs_viols.png)
 
-Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+**University**. Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![university_roleass.png](imgMaintenance/university_roleass.png)
 
 
@@ -179,6 +188,13 @@ Average number of roles and assignments (y axis) as a function of the balance B 
 ## Impact of timeout
 
 Results collected in the following are obtained starting from _Domino_ to show the impact of the timeout with three different balance configurations:
+
+- [B = 0.65](timeImpactMaintenance/AVG_Quality_b0.65.dat)
+- [B = 0.45](timeImpactMaintenance/AVG_Quality_b0.45.dat)
+- [B = 0.25](timeImpactMaintenance/AVG_Quality_b0.25.dat)
+- [B = 0.10](timeImpactMaintenance/AVG_Quality_b0.1.dat)
+- [B = 0.05](timeImpactMaintenance/AVG_Quality_b0.05.dat)
+
 
 Average simplicity in Domino (y axis) as a function of the timeout (x axis, secs) at different balance points B.
 ![opt_timeout](imgMaintenance/opt_timeout.png)
