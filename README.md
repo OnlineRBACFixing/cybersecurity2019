@@ -142,27 +142,35 @@ Results are also available in plain text in [rates.txt](qualityIncompleteMainten
 
 ## Impact of Beta
 
-By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance $\beta$ to **sim** (similarity) and **opt** (simplicity) for three dataset. We considered both exceptions and violations to synthesize in the initial RBAC state.
+By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset. We considered both exceptions and violations to synthesize in the initial RBAC state.
 
 
-###SmallComp
-Average simplicity and similarity (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
-![A_SimOpt.png](imgMaintenance/A_SimOpt.png)
+SmallComp
 
-Average number of roles and assignments (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
-![A_Role.png](imgMaintenance/A_Role.png)
+Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+![smallcomp_optsim_excs_viols.png](imgMaintenance/smallcomp_optsim_excs_viols.png)
 
-###Domino
-Average simplicity and similarity (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+![smallcomp_roleass.png](imgMaintenance/smallcomp_roleass.png)
 
-Average number of roles and assignments (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+Domino
 
-###University
-Average simplicity and similarity (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+![domino_optsim_excs_viols.png](imgMaintenance/domino_optsim_excs_viols.png)
 
-Average number of roles and assignments (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+![domino_roleass.png](imgMaintenance/domino_roleass.png)
 
-###Satisfied soft constraints
+University
+
+Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+![university_optsim_excs_viols.png](imgMaintenance/university_optsim_excs_viols.png)
+
+Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+![university_roleass.png](imgMaintenance/university_roleass.png)
+
+
+Satisfied soft constraints
 
 Average percentage of satisfied weights (y axis) depending on the balance B (x axis):
 ![A_SatRate.png](imgMaintenance/A_SatRate.png)
