@@ -278,7 +278,7 @@ These benchamrks have been adopted to compare our approach (RMS) with Fast Miner
 
 # Comparison Results
 
-Solutions obtained for the above benchamrks by using FM, MP, and RMS (timeout=1200 sec) to perform RBAC maintenance tasks. For RMS, solutions are evaluate with 11 values of B sampled at regular intervals. Solutions are positioned according to their average simplicity (x axis) and similarity (y axis).
+Solutions obtained for the above benchmarks by using FM, MP, and RMS (timeout=1200 sec) to perform RBAC maintenance tasks. For RMS, solutions are evaluate with 11 values of B sampled at regular intervals. Solutions are positioned according to their average simplicity (x axis) and similarity (y axis).
 
 ## SmallComp
 
