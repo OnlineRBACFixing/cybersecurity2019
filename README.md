@@ -320,4 +320,4 @@ Corresponding input data are also available in the following:
 
 Images have been created by the means of a software with non-commercial license.
 
-We are currently setting up a git-hub repository to host the “RBAC Maintance” Open Source software. Meanwhile we are available to distribute it upon reception of a simple request of interest sent to [appliedresearchteam@bancaditalia.it](mailto:appliedresearchteam@bancaditalia.it).
+We are currently setting up a git-hub repository to host the “RBAC Maintance” Open Source software. Meanwhile we are available to distribute it upon reception of a simple request of interest sent to "Anonymous Mail"
