@@ -281,15 +281,35 @@ Solutions obtained for the above benchamrks by using FM, MP, and RMS (timeout=12
 
 ## SmallComp
 
-![comparison_smallcomp](comp/journal_smallcomp.png)
+![comparison_smallcomp](comp/journal_toy.png)
+
+Corresponding input data are also available in the following:
+
+- [RMS_smallcomp](comp/comparison1200toy.txt)
+- [FM_smallcomp](comp/global_metric_toy_FM.txt)
+- [MP_smallcomp](comp/global_metric_toy_MP.txt)
 
 ## Domino
 
 ![comparison_domino](comp/journal_domino.png)
 
+Corresponding input data are also available in the following:
+
+- [RMS_domino](comp/comparison1200domino.txt)
+- [FM_domino](comp/global_metric_domino_FM.txt)
+- [MP_domino](comp/global_metric_domino_MP.txt)
+
+
 ## University
 
 ![comparison_university](comp/journal_university.png)
+
+Corresponding input data are also available in the following:
+
+- [RMS_university](comp/comparison1200university.txt)
+- [FM_university](comp/global_metric_university_FM.txt)
+- [MP_university](comp/global_metric_university_MP.txt)
+
 
 
 
