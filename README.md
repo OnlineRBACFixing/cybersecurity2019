@@ -145,24 +145,21 @@ Results are also available in plain text in [rates.txt](qualityIncompleteMainten
 By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset. We considered both exceptions and violations to synthesize in the initial RBAC state.
 
 
-SmallComp
-
+**SmallComp**. 
 Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![smallcomp_optsim_excs_viols.png](imgMaintenance/smallcomp_optsim_excs_viols.png)
 
 Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![smallcomp_roleass.png](imgMaintenance/smallcomp_roleass.png)
 
-Domino
-
+**Domino**
 Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![domino_optsim_excs_viols.png](imgMaintenance/domino_optsim_excs_viols.png)
 
 Average number of roles and assignments (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![domino_roleass.png](imgMaintenance/domino_roleass.png)
 
-University
-
+**University**
 Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
 ![university_optsim_excs_viols.png](imgMaintenance/university_optsim_excs_viols.png)
 
@@ -170,9 +167,7 @@ Average number of roles and assignments (y axis) as a function of the balance B 
 ![university_roleass.png](imgMaintenance/university_roleass.png)
 
 
-Satisfied soft constraints
-
-Average percentage of satisfied weights (y axis) depending on the balance B (x axis):
+**Satisfied soft constraints**. Average percentage of satisfied weights (y axis) depending on the balance B (x axis):
 ![A_SatRate.png](imgMaintenance/A_SatRate.png)
 
 
@@ -185,17 +180,11 @@ Average percentage of satisfied weights (y axis) depending on the balance B (x a
 
 Results collected in the following are obtained starting from _Domino_ to show the impact of the timeout with three different balance configurations:
 
-- [B = 0.65](timeImpactMaintenance/AVG_Quality_b0.65.dat)
-- [B = 0.45](timeImpactMaintenance/AVG_Quality_b0.45.dat)
-- [B = 0.25](timeImpactMaintenance/AVG_Quality_b0.25.dat)
-- [B = 0.10](timeImpactMaintenance/AVG_Quality_b0.1.dat)
-- [B = 0.05](timeImpactMaintenance/AVG_Quality_b0.05.dat)
-
 Average simplicity in Domino (y axis) as a function of the timeout (x axis, secs) at different balance points B.
-![C_timeoutOpt](imgMaintenance/C_timeoutOpt.png)
+![opt_timeout](imgMaintenance/opt_timeout.png)
 
 Average similarity in Domino (y axis) as a function of the timeout (x axis, secs) at different balance points B.
-![C_timeoutSim](imgMaintenance/C_timeoutSim.png)
+![sim_timeout](imgMaintenance/sim_timeout.png)
 
 Average number of roles in Domino (y axis) as a function of the timeout (x axis, secs) at different balance points B.
 ![C_timeoutRole](imgMaintenance/C_timeoutRole.png)
