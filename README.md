@@ -142,23 +142,33 @@ Results are also available in plain text in [rates.txt](qualityIncompleteMainten
 
 ## Impact of Beta
 
-By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset.
+By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance $\beta$ to **sim** (similarity) and **opt** (simplicity) for three dataset. We considered both exceptions and violations to synthesize in the initial RBAC state.
 
-- [SmallComp](preferencesImpactMaintenance/SmallComp_AVG_Quality.dat)
-- [Domino](preferencesImpactMaintenance/Domino_AVG_Quality.dat)
-- [University](preferencesImpactMaintenance/University_AVG_Quality.dat)
 
-Average similarity and simplicity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
+###SmallComp
+Average simplicity and similarity (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
 ![A_SimOpt.png](imgMaintenance/A_SimOpt.png)
 
-Average number of roles (y axis) after incorporating exceptions as a function of the balance B (x axis) for different dataset:
+Average number of roles and assignments (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
 ![A_Role.png](imgMaintenance/A_Role.png)
 
-Average number of assignments (y axis) depending on the balance B (x axis):
-![A_Ass.png](imgMaintenance/A_Ass.png)
+###Domino
+Average simplicity and similarity (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+
+Average number of roles and assignments (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+
+###University
+Average simplicity and similarity (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+
+Average number of roles and assignments (y axis) as a function of the balance $\beta$ (x axis) with 21 values of B sampled at regular intervals:
+
+###Satisfied soft constraints
 
 Average percentage of satisfied weights (y axis) depending on the balance B (x axis):
 ![A_SatRate.png](imgMaintenance/A_SatRate.png)
+
+
+
 
 
 
