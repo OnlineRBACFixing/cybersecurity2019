@@ -241,7 +241,7 @@ Corresponding input data are also available in the following:
 
 
 # Datasets for Comparison
-This benchamrks have been adopted to compare our approach (RMS) with Fast Miner (FM) and Minimal Perturbation (MP) role mining algorithms. The initial RBAC state has been created with Pair Count role mining algorithm.
+These benchamrks have been adopted to compare our approach (RMS) with Fast Miner (FM) and Minimal Perturbation (MP) role mining algorithms. The initial RBAC state has been created with Pair Count role mining algorithm.
 
 ## SmallComp
 
