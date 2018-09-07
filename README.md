@@ -149,15 +149,15 @@ By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B
 
 Results for additions of exceptions
 
-- [SmallComp](preferencesImpactMaintenance/Avg_quality_smallcomp_exc.dat)
-- [Domino](preferencesImpactMaintenance/Avg_quality_domino_exc.dat)
-- [University](preferencesImpactMaintenance/Avg_quality_university_exc.dat)
+- [SmallComp](preferencesImpactMaintenance/Avg_CS/Avg_quality_smallcomp_exc.dat)
+- [Domino](preferencesImpactMaintenance/Avg_CS/Avg_quality_domino_exc.dat)
+- [University](preferencesImpactMaintenance/Avg_CS/Avg_quality_university_exc.dat)
 
 Results for removal of violations
 
-- [SmallComp](preferencesImpactMaintenance/Avg_quality_smallcomp_viol.dat)
-- [Domino](preferencesImpactMaintenance/Avg_quality_domino_viol.dat)
-- [University](preferencesImpactMaintenance/Avg_quality_university_viol.dat)
+- [SmallComp](preferencesImpactMaintenance/Avg_CS/Avg_quality_smallcomp_viol.dat)
+- [Domino](preferencesImpactMaintenance/Avg_CS/Avg_quality_domino_viol.dat)
+- [University](preferencesImpactMaintenance/Avg_CS/Avg_quality_university_viol.dat)
 
 
 **SmallComp**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
