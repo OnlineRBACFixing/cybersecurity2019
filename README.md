@@ -376,22 +376,32 @@ Corresponding input data are also available in the following:
 
 ## SmallComp
 
-|Run|UA|PA|Viols|PDDL|
-|:-:	           |:---:	|:---:	|:---:	|:---:	| :--:|
-|0|[UA](dataset_multipleviolation/SC/0/UA.txt)|[PA](dataset_multipleviolation/SC/0/PA.txt)|[viols](dataset_multipleviolation/SC/0/viols.txt)|||
 
 
-|1|[UA](dataset_multipleviolation/SC/1/UA.txt)|[PA](dataset_multipleviolation/SC/1/PA.txt)|[excs](dataset_multipleviolation/SC/1/excs.txt)|[viols](dataset_multipleviolation/SC/1/viols.txt)|
-|2|[UA](dataset_multipleviolation/SC/2/UA.txt)|[PA](dataset_multipleviolation/SC/2/PA.txt)|[excs](dataset_multipleviolation/SC/2/excs.txt)|[viols](dataset_multipleviolation/SC/2/viols.txt)|
-|3|[UA](dataset_multipleviolation/SC/3/UA.txt)|[PA](dataset_multipleviolation/SC/3/PA.txt)|[excs](dataset_multipleviolation/SC/3/excs.txt)|[viols](dataset_multipleviolation/SC/3/viols.txt)|
-|4|[UA](dataset_multipleviolation/SC/4/UA.txt)|[PA](dataset_multipleviolation/SC/4/PA.txt)|[excs](dataset_multipleviolation/SC/4/excs.txt)|[viols](dataset_multipleviolation/SC/4/viols.txt)|
-|5|[UA](dataset_multipleviolation/SC/5/UA.txt)|[PA](dataset_multipleviolation/SC/5/PA.txt)|[excs](dataset_multipleviolation/SC/5/excs.txt)|[viols](dataset_multipleviolation/SC/5/viols.txt)|
-|6|[UA](dataset_multipleviolation/SC/6/UA.txt)|[PA](dataset_multipleviolation/SC/6/PA.txt)|[excs](dataset_multipleviolation/SC/6/excs.txt)|[viols](dataset_multipleviolation/SC/6/viols.txt)|
-|7|[UA](dataset_multipleviolation/SC/7/UA.txt)|[PA](dataset_multipleviolation/SC/7/PA.txt)|[excs](dataset_multipleviolation/SC/7/excs.txt)|[viols](dataset_multipleviolation/SC/7/viols.txt)|
-|8|[UA](dataset_multipleviolation/SC/8/UA.txt)|[PA](dataset_multipleviolation/SC/8/PA.txt)|[excs](dataset_multipleviolation/SC/8/excs.txt)|[viols](dataset_multipleviolation/SC/8/viols.txt)|
-|9|[UA](dataset_multipleviolation/SC/9/UA.txt)|[PA](dataset_multipleviolation/SC/9/PA.txt)|[excs](dataset_multipleviolation/SC/9/excs.txt)|[viols](dataset_multipleviolation/SC/9/viols.txt)|
 
-[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
+|Beta 0| Beta 0.05|Beta 0.1|Beta 0.15|Beta 0.2| Beta 0.25|Beta 0.3| Beta 0.35|Beta 0.4|Beta 0.45|Beta 0.5| Beta 0.55|Beta 0.6| Beta 0.65|Beta 0.7|Beta 0.75|Beta 0.8| Beta 0.85 |Beta 0.9| Beta 0.95 |Beta 1.0|
+|:-:	 |:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|:-:	 |:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|:---:	|
+|Run0|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20000.pddl)[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_20000.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.1_20000.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.15_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.2_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.25_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.3_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.35_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.4_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.45_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.5_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.55_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.6_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.65_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.7_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.75_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.8_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.85_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.9_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.95_20000.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_1.0_20000.pddl)|
+
+
+
 
 
 
