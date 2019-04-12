@@ -1,0 +1,2362 @@
+
+--------------------------------------------------------
+The permissions of role are?
+1
+The users of role are?
+u_U1,
+u_U10,
+u_U14,
+u_U16,
+u_U19,
+u_U23,
+u_U3,
+u_U31,
+u_U44,
+u_U45,
+u_U57,
+u_U58,
+u_U61,
+u_U7
+The weight of role is?58.0
+
+--------------------------------------------------------
+The permissions of role are?
+0
+The users of role are?
+u_U1,
+u_U14,
+u_U16,
+u_U18,
+u_U19,
+u_U23,
+u_U3,
+u_U58,
+u_U61,
+u_U69,
+u_U7
+The weight of role is?28.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+2
+The users of role are?
+u_U10,
+u_U16,
+u_U23,
+u_U44,
+u_U45,
+u_U57,
+u_U61
+The weight of role is?30.0
+
+--------------------------------------------------------
+The permissions of role are?
+3
+The users of role are?
+u_U10,
+u_U18,
+u_U23,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+2,
+3
+The users of role are?
+u_U10,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+3
+The users of role are?
+u_U10,
+u_U23,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+7,
+10,
+11,
+15
+The users of role are?
+u_U16,
+u_U17,
+u_U23,
+u_U31,
+u_U32
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+5,
+14
+The users of role are?
+u_U16,
+u_U18,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+4,
+5,
+11,
+13
+The users of role are?
+u_U16,
+u_U2,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+2,
+4,
+5,
+7,
+8,
+9,
+10,
+11,
+12,
+13,
+14,
+15
+The users of role are?
+u_U16,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+4,
+5,
+7,
+8,
+10,
+11,
+12,
+14,
+15
+The users of role are?
+u_U16,
+u_U23,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+13
+The users of role are?
+u_U16,
+u_U2,
+u_U23,
+u_U43,
+u_U60,
+u_U63,
+u_U67
+The weight of role is?16.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+2,
+7,
+11
+The users of role are?
+u_U16,
+u_U23,
+u_U57
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+13
+The users of role are?
+u_U16,
+u_U2,
+u_U23,
+u_U43,
+u_U59,
+u_U60,
+u_U62,
+u_U63,
+u_U64,
+u_U66,
+u_U67,
+u_U68,
+u_U69
+The weight of role is?40.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+2,
+5
+The users of role are?
+u_U16,
+u_U23,
+u_U61
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+9
+The users of role are?
+u_U16,
+u_U23,
+u_U65
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+5,
+38
+The users of role are?
+u_U17,
+u_U18,
+u_U23,
+u_U31,
+u_U32
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+48
+The users of role are?
+u_U17,
+u_U19,
+u_U23,
+u_U31,
+u_U32
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+11,
+46,
+68,
+76,
+78,
+88,
+93,
+95,
+111
+The users of role are?
+u_U17,
+u_U2,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+7,
+10,
+11,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112
+The users of role are?
+u_U17,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+7,
+10,
+11,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+110,
+111,
+112
+The users of role are?
+u_U17,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+7,
+10,
+11,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+47,
+48,
+49,
+50,
+51,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112
+The users of role are?
+u_U17,
+u_U23,
+u_U32
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+7,
+11
+The users of role are?
+u_U16,
+u_U17,
+u_U23,
+u_U31,
+u_U32,
+u_U57
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+52,
+56,
+84
+The users of role are?
+u_U17,
+u_U23,
+u_U31,
+u_U65
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+11
+The users of role are?
+u_U16,
+u_U17,
+u_U2,
+u_U23,
+u_U31,
+u_U32,
+u_U57,
+u_U7
+The weight of role is?6.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+3,
+5,
+14,
+38,
+113
+The users of role are?
+u_U18,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+3,
+5,
+14,
+38
+The users of role are?
+u_U18,
+u_U23,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+5
+The users of role are?
+u_U16,
+u_U18,
+u_U23,
+u_U61
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+48
+The users of role are?
+u_U19,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+48
+The users of role are?
+u_U19,
+u_U23,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+4,
+5,
+11,
+13,
+68,
+76,
+78,
+88,
+93,
+95,
+111,
+117
+The users of role are?
+u_U2,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+11,
+46,
+68,
+76,
+78,
+88,
+93,
+95,
+111,
+117,
+118
+The users of role are?
+u_U2,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+11,
+68,
+76,
+78,
+88,
+93,
+95,
+111
+The users of role are?
+u_U17,
+u_U2,
+u_U23,
+u_U31,
+u_U32
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+13,
+118,
+121
+The users of role are?
+u_U2,
+u_U43,
+u_U60,
+u_U63,
+u_U67
+The weight of role is?20.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+11
+The users of role are?
+u_U16,
+u_U2,
+u_U23,
+u_U57
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+13,
+118,
+121
+The users of role are?
+u_U2,
+u_U43,
+u_U59,
+u_U60,
+u_U62,
+u_U63,
+u_U64,
+u_U66,
+u_U67,
+u_U68
+The weight of role is?70.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+5
+The users of role are?
+u_U16,
+u_U2,
+u_U23,
+u_U61
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+119
+The users of role are?
+u_U2,
+u_U65
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+3,
+4,
+5,
+7,
+8,
+10,
+11,
+12,
+14,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+47,
+48,
+49,
+50,
+51,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+110,
+111,
+112,
+117,
+159,
+167,
+169,
+174,
+191,
+201
+The users of role are?
+u_U23,
+u_U31
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+7,
+10,
+11,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+47,
+48,
+49,
+50,
+51,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+152
+The users of role are?
+u_U23,
+u_U32
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+9,
+52,
+56,
+84,
+162,
+190
+The users of role are?
+u_U23,
+u_U65
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+7,
+10,
+11,
+15,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+47,
+48,
+49,
+50,
+51,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+91,
+92,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+110,
+111,
+112
+The users of role are?
+u_U17,
+u_U23,
+u_U31,
+u_U32
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+118
+The users of role are?
+u_U2,
+u_U31,
+u_U43,
+u_U59,
+u_U60,
+u_U62,
+u_U63,
+u_U64,
+u_U66,
+u_U67,
+u_U68
+The weight of role is?18.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+7,
+11
+The users of role are?
+u_U16,
+u_U23,
+u_U31,
+u_U57
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+5
+The users of role are?
+u_U16,
+u_U23,
+u_U31,
+u_U61
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+1,
+11
+The users of role are?
+u_U16,
+u_U23,
+u_U31,
+u_U57,
+u_U7
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+56,
+84
+The users of role are?
+u_U17,
+u_U23,
+u_U31,
+u_U32,
+u_U65
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1
+The users of role are?
+u_U1,
+u_U14,
+u_U16,
+u_U19,
+u_U23,
+u_U3,
+u_U58,
+u_U61,
+u_U7
+The weight of role is?60.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+1,
+3
+The users of role are?
+u_U10,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5
+The users of role are?
+u_U11,
+u_U13,
+u_U16,
+u_U17,
+u_U2,
+u_U21,
+u_U22,
+u_U23,
+u_U27,
+u_U29,
+u_U30,
+u_U31,
+u_U32,
+u_U36,
+u_U37,
+u_U54,
+u_U55,
+u_U6,
+u_U72,
+u_U77,
+u_U9
+The weight of role is?390.0
+
+--------------------------------------------------------
+The permissions of role are?
+5
+The users of role are?
+u_U11,
+u_U13,
+u_U15,
+u_U16,
+u_U17,
+u_U18,
+u_U2,
+u_U20,
+u_U21,
+u_U22,
+u_U23,
+u_U24,
+u_U25,
+u_U26,
+u_U27,
+u_U29,
+u_U30,
+u_U31,
+u_U32,
+u_U33,
+u_U34,
+u_U35,
+u_U36,
+u_U37,
+u_U39,
+u_U40,
+u_U41,
+u_U42,
+u_U47,
+u_U48,
+u_U50,
+u_U51,
+u_U52,
+u_U54,
+u_U55,
+u_U56,
+u_U6,
+u_U61,
+u_U71,
+u_U72,
+u_U73,
+u_U74,
+u_U75,
+u_U76,
+u_U77,
+u_U78,
+u_U79,
+u_U8,
+u_U9
+The weight of role is?1912.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+6,
+2,
+0,
+5,
+7,
+8,
+1,
+9,
+10,
+11,
+12,
+13,
+14,
+15
+The users of role are?
+u_U16
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+7,
+52,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+10,
+91,
+92,
+11,
+15,
+93,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112
+The users of role are?
+u_U17
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+5,
+38,
+113,
+14,
+114,
+3
+The users of role are?
+u_U18
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+48,
+1
+The users of role are?
+u_U19,
+u_U23
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+2,
+5,
+46,
+115,
+68,
+116,
+76,
+78,
+117,
+88,
+118,
+11,
+13,
+93,
+119,
+95,
+120,
+111,
+121
+The users of role are?
+u_U2
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+122,
+2,
+0,
+5,
+16,
+123,
+124,
+17,
+18,
+125,
+126,
+19,
+20,
+127,
+128,
+21,
+22,
+129,
+130,
+23,
+24,
+131,
+132,
+25,
+26,
+133,
+134,
+27,
+28,
+135,
+136,
+29,
+30,
+137,
+138,
+31,
+32,
+139,
+140,
+33,
+34,
+141,
+142,
+35,
+36,
+143,
+144,
+37,
+38,
+145,
+113,
+39,
+40,
+146,
+147,
+41,
+42,
+148,
+149,
+43,
+44,
+150,
+151,
+45,
+152,
+153,
+47,
+48,
+154,
+155,
+49,
+50,
+156,
+157,
+51,
+7,
+52,
+158,
+159,
+53,
+54,
+160,
+161,
+55,
+56,
+162,
+163,
+57,
+58,
+164,
+165,
+59,
+60,
+166,
+167,
+61,
+62,
+168,
+169,
+63,
+64,
+170,
+171,
+65,
+66,
+172,
+173,
+67,
+68,
+174,
+69,
+70,
+175,
+176,
+71,
+72,
+177,
+178,
+73,
+74,
+179,
+180,
+75,
+76,
+181,
+182,
+77,
+78,
+183,
+117,
+184,
+79,
+80,
+185,
+186,
+81,
+82,
+187,
+188,
+83,
+84,
+189,
+190,
+85,
+86,
+191,
+192,
+87,
+88,
+193,
+194,
+89,
+90,
+8,
+1,
+9,
+10,
+91,
+195,
+196,
+92,
+11,
+12,
+13,
+14,
+15,
+93,
+197,
+198,
+94,
+95,
+199,
+96,
+97,
+200,
+201,
+202,
+98,
+99,
+203,
+204,
+100,
+101,
+205,
+206,
+102,
+103,
+207,
+208,
+209,
+104,
+105,
+210,
+211,
+106,
+107,
+212,
+213,
+108,
+109,
+214,
+215,
+110,
+111,
+216,
+217,
+112,
+3
+The users of role are?
+u_U23
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+5,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+218,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+46,
+47,
+48,
+49,
+50,
+51,
+7,
+52,
+159,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+167,
+61,
+62,
+169,
+63,
+64,
+219,
+65,
+66,
+67,
+68,
+174,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+117,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+191,
+87,
+88,
+118,
+89,
+90,
+8,
+1,
+10,
+91,
+92,
+11,
+12,
+14,
+15,
+93,
+94,
+95,
+96,
+97,
+201,
+98,
+99,
+220,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+221,
+110,
+111,
+112,
+3
+The users of role are?
+u_U31
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+4,
+222,
+5,
+223,
+16,
+17,
+18,
+19,
+20,
+21,
+22,
+23,
+24,
+25,
+26,
+27,
+28,
+29,
+30,
+31,
+32,
+33,
+34,
+35,
+36,
+37,
+38,
+39,
+40,
+41,
+42,
+43,
+44,
+45,
+152,
+47,
+48,
+49,
+50,
+51,
+7,
+53,
+54,
+55,
+56,
+57,
+58,
+59,
+60,
+61,
+62,
+63,
+64,
+65,
+66,
+67,
+68,
+69,
+70,
+71,
+72,
+73,
+74,
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,
+10,
+91,
+92,
+11,
+15,
+93,
+224,
+94,
+95,
+96,
+97,
+98,
+99,
+100,
+101,
+102,
+103,
+104,
+105,
+106,
+107,
+108,
+109,
+110,
+111,
+112,
+225
+The users of role are?
+u_U32
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+2
+The users of role are?
+u_U10,
+u_U16,
+u_U2,
+u_U23,
+u_U38,
+u_U43,
+u_U44,
+u_U45,
+u_U57,
+u_U60,
+u_U61,
+u_U63,
+u_U67,
+u_U70
+The weight of role is?96.0
+
+--------------------------------------------------------
+The permissions of role are?
+4
+The users of role are?
+u_U11,
+u_U13,
+u_U16,
+u_U17,
+u_U2,
+u_U21,
+u_U22,
+u_U23,
+u_U27,
+u_U29,
+u_U30,
+u_U31,
+u_U32,
+u_U36,
+u_U37,
+u_U4,
+u_U54,
+u_U55,
+u_U6,
+u_U72,
+u_U77,
+u_U9
+The weight of role is?42.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+118,
+13,
+121
+The users of role are?
+u_U2,
+u_U43,
+u_U60,
+u_U63,
+u_U67
+The weight of role is?20.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+1
+The users of role are?
+u_U10,
+u_U16,
+u_U23,
+u_U44,
+u_U45,
+u_U57,
+u_U61
+The weight of role is?30.0
+
+--------------------------------------------------------
+The permissions of role are?
+226
+The users of role are?
+u_U5
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+7,
+1,
+11
+The users of role are?
+u_U16,
+u_U23,
+u_U57
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+118,
+13,
+121
+The users of role are?
+u_U2,
+u_U43,
+u_U59,
+u_U60,
+u_U62,
+u_U63,
+u_U64,
+u_U66,
+u_U67,
+u_U68
+The weight of role is?70.0
+
+--------------------------------------------------------
+The permissions of role are?
+2,
+0,
+5,
+1
+The users of role are?
+u_U16,
+u_U23,
+u_U61
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+227,
+228,
+52,
+56,
+162,
+84,
+190,
+9,
+119
+The users of role are?
+u_U65
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+13
+The users of role are?
+u_U16,
+u_U23,
+u_U69
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+11
+The users of role are?
+u_U16,
+u_U23,
+u_U7
+The weight of role is?4.0
+
+--------------------------------------------------------
+Numero dei ruoli=70
+Permesso 0 : p_P2
+Permesso 1 : p_P1
+Permesso 2 : p_P21
+Permesso 3 : p_P24
+Permesso 4 : p_P22
+Permesso 5 : p_P20
+Permesso 6 : p_P32
+Permesso 7 : p_P31
+Permesso 8 : p_P30
+Permesso 9 : p_P29
+Permesso 10 : p_P28
+Permesso 11 : p_P10
+Permesso 12 : p_P27
+Permesso 13 : p_P9
+Permesso 14 : p_P26
+Permesso 15 : p_P25
+Permesso 16 : p_P121
+Permesso 17 : p_P120
+Permesso 18 : p_P119
+Permesso 19 : p_P118
+Permesso 20 : p_P117
+Permesso 21 : p_P116
+Permesso 22 : p_P115
+Permesso 23 : p_P114
+Permesso 24 : p_P113
+Permesso 25 : p_P112
+Permesso 26 : p_P111
+Permesso 27 : p_P110
+Permesso 28 : p_P109
+Permesso 29 : p_P108
+Permesso 30 : p_P107
+Permesso 31 : p_P106
+Permesso 32 : p_P105
+Permesso 33 : p_P104
+Permesso 34 : p_P103
+Permesso 35 : p_P102
+Permesso 36 : p_P101
+Permesso 37 : p_P100
+Permesso 38 : p_P99
+Permesso 39 : p_P98
+Permesso 40 : p_P97
+Permesso 41 : p_P96
+Permesso 42 : p_P95
+Permesso 43 : p_P94
+Permesso 44 : p_P93
+Permesso 45 : p_P92
+Permesso 46 : p_P19
+Permesso 47 : p_P91
+Permesso 48 : p_P90
+Permesso 49 : p_P89
+Permesso 50 : p_P88
+Permesso 51 : p_P87
+Permesso 52 : p_P86
+Permesso 53 : p_P85
+Permesso 54 : p_P84
+Permesso 55 : p_P83
+Permesso 56 : p_P82
+Permesso 57 : p_P81
+Permesso 58 : p_P80
+Permesso 59 : p_P79
+Permesso 60 : p_P78
+Permesso 61 : p_P77
+Permesso 62 : p_P76
+Permesso 63 : p_P75
+Permesso 64 : p_P74
+Permesso 65 : p_P73
+Permesso 66 : p_P72
+Permesso 67 : p_P71
+Permesso 68 : p_P17
+Permesso 69 : p_P70
+Permesso 70 : p_P69
+Permesso 71 : p_P68
+Permesso 72 : p_P67
+Permesso 73 : p_P66
+Permesso 74 : p_P65
+Permesso 75 : p_P64
+Permesso 76 : p_P15
+Permesso 77 : p_P63
+Permesso 78 : p_P14
+Permesso 79 : p_P62
+Permesso 80 : p_P61
+Permesso 81 : p_P60
+Permesso 82 : p_P59
+Permesso 83 : p_P58
+Permesso 84 : p_P57
+Permesso 85 : p_P56
+Permesso 86 : p_P55
+Permesso 87 : p_P54
+Permesso 88 : p_P12
+Permesso 89 : p_P53
+Permesso 90 : p_P52
+Permesso 91 : p_P51
+Permesso 92 : p_P50
+Permesso 93 : p_P8
+Permesso 94 : p_P49
+Permesso 95 : p_P6
+Permesso 96 : p_P48
+Permesso 97 : p_P47
+Permesso 98 : p_P46
+Permesso 99 : p_P45
+Permesso 100 : p_P44
+Permesso 101 : p_P43
+Permesso 102 : p_P42
+Permesso 103 : p_P41
+Permesso 104 : p_P40
+Permesso 105 : p_P39
+Permesso 106 : p_P38
+Permesso 107 : p_P37
+Permesso 108 : p_P36
+Permesso 109 : p_P35
+Permesso 110 : p_P34
+Permesso 111 : p_P4
+Permesso 112 : p_P33
+Permesso 113 : p_P123
+Permesso 114 : p_P122
+Permesso 115 : p_P18
+Permesso 116 : p_P16
+Permesso 117 : p_P13
+Permesso 118 : p_P11
+Permesso 119 : p_P7
+Permesso 120 : p_P5
+Permesso 121 : p_P3
+Permesso 122 : p_P219
+Permesso 123 : p_P218
+Permesso 124 : p_P217
+Permesso 125 : p_P216
+Permesso 126 : p_P215
+Permesso 127 : p_P214
+Permesso 128 : p_P213
+Permesso 129 : p_P212
+Permesso 130 : p_P211
+Permesso 131 : p_P210
+Permesso 132 : p_P209
+Permesso 133 : p_P208
+Permesso 134 : p_P207
+Permesso 135 : p_P206
+Permesso 136 : p_P205
+Permesso 137 : p_P204
+Permesso 138 : p_P203
+Permesso 139 : p_P202
+Permesso 140 : p_P201
+Permesso 141 : p_P200
+Permesso 142 : p_P199
+Permesso 143 : p_P198
+Permesso 144 : p_P197
+Permesso 145 : p_P196
+Permesso 146 : p_P195
+Permesso 147 : p_P194
+Permesso 148 : p_P193
+Permesso 149 : p_P192
+Permesso 150 : p_P191
+Permesso 151 : p_P190
+Permesso 152 : p_P189
+Permesso 153 : p_P188
+Permesso 154 : p_P187
+Permesso 155 : p_P186
+Permesso 156 : p_P185
+Permesso 157 : p_P184
+Permesso 158 : p_P183
+Permesso 159 : p_P182
+Permesso 160 : p_P181
+Permesso 161 : p_P180
+Permesso 162 : p_P179
+Permesso 163 : p_P178
+Permesso 164 : p_P177
+Permesso 165 : p_P176
+Permesso 166 : p_P175
+Permesso 167 : p_P174
+Permesso 168 : p_P173
+Permesso 169 : p_P172
+Permesso 170 : p_P171
+Permesso 171 : p_P170
+Permesso 172 : p_P169
+Permesso 173 : p_P168
+Permesso 174 : p_P167
+Permesso 175 : p_P166
+Permesso 176 : p_P165
+Permesso 177 : p_P164
+Permesso 178 : p_P163
+Permesso 179 : p_P162
+Permesso 180 : p_P161
+Permesso 181 : p_P160
+Permesso 182 : p_P159
+Permesso 183 : p_P158
+Permesso 184 : p_P157
+Permesso 185 : p_P156
+Permesso 186 : p_P155
+Permesso 187 : p_P154
+Permesso 188 : p_P153
+Permesso 189 : p_P152
+Permesso 190 : p_P151
+Permesso 191 : p_P150
+Permesso 192 : p_P149
+Permesso 193 : p_P148
+Permesso 194 : p_P147
+Permesso 195 : p_P146
+Permesso 196 : p_P145
+Permesso 197 : p_P144
+Permesso 198 : p_P143
+Permesso 199 : p_P142
+Permesso 200 : p_P141
+Permesso 201 : p_P140
+Permesso 202 : p_P139
+Permesso 203 : p_P138
+Permesso 204 : p_P137
+Permesso 205 : p_P136
+Permesso 206 : p_P135
+Permesso 207 : p_P134
+Permesso 208 : p_P133
+Permesso 209 : p_P132
+Permesso 210 : p_P131
+Permesso 211 : p_P130
+Permesso 212 : p_P129
+Permesso 213 : p_P128
+Permesso 214 : p_P127
+Permesso 215 : p_P126
+Permesso 216 : p_P125
+Permesso 217 : p_P124
+Permesso 218 : p_P223
+Permesso 219 : p_P222
+Permesso 220 : p_P221
+Permesso 221 : p_P220
+Permesso 222 : p_P227
+Permesso 223 : p_P226
+Permesso 224 : p_P225
+Permesso 225 : p_P224
+Permesso 226 : p_P23
+Permesso 227 : p_P231
+Permesso 228 : p_P230
+Permesso 229 : p_P229
+Permesso 230 : p_P228
