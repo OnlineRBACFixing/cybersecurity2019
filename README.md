@@ -379,28 +379,17 @@ Corresponding input data are also available in the following:
 
 
 
-|Beta 0| Beta 0.05|Beta 0.1|Beta 0.15|Beta 0.2| Beta 0.25|Beta 0.3| Beta 0.35|Beta 0.4|Beta 0.45|Beta 0.5| Beta 0.55|Beta 0.6| Beta 0.65|Beta 0.7|Beta 0.75|Beta 0.8| Beta 0.85 |Beta 0.9| Beta 0.95 |Beta 1.0|
-|:-:	 |:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|:-:	 |:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|:---:	|
-|Run0|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20000.pddl)[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_20000.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.1_20000.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.15_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.2_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.25_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.3_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.35_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.4_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.45_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.5_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.55_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.6_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.65_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.7_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.75_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.8_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.85_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.9_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.95_20000.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_1.0_20000.pddl)|
+|Run 0| Run 2|Run 3|Run 4|Run 5|Run 6|Run 7|Run 8|Run 9|Run 10|
+|:-:	 |:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|
 
-
+|Beta 0.0|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20000.pddl)[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20000.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20001.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20002.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20003.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20004.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20005.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20006.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20007.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20008.pddl)|
+[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20009.pddl)|
 
 
 
