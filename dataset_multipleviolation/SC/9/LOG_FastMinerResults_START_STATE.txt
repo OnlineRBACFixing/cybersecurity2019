@@ -1,0 +1,135 @@
+Fast Miner
+
+--------------------------------------------------------
+number of roles: 11
+The permissions of the 0th role are: 
+p1,
+p2,
+p4,
+p6
+The users of the 0th role are: 
+u1,
+u2,
+u4,
+u8,
+u10
+
+--------------------------------------------------------
+The permissions of the 1th role are: 
+p1,
+p4,
+p6
+The users of the 1th role are: 
+u1,
+u2,
+u3,
+u4,
+u8,
+u10
+
+--------------------------------------------------------
+The permissions of the 2th role are: 
+p6
+The users of the 2th role are: 
+u1,
+u2,
+u3,
+u4,
+u5,
+u8,
+u9,
+u10
+
+--------------------------------------------------------
+The permissions of the 3th role are: 
+p1,
+p2,
+p4,
+p6,
+p7,
+p8
+The users of the 3th role are: 
+u1,
+u2
+
+--------------------------------------------------------
+The permissions of the 4th role are: 
+p1,
+p4,
+p6,
+p7
+The users of the 4th role are: 
+u1,
+u2,
+u3
+
+--------------------------------------------------------
+The permissions of the 5th role are: 
+p1,
+p2,
+p4,
+p6,
+p8
+The users of the 5th role are: 
+u1,
+u2,
+u4
+
+--------------------------------------------------------
+The permissions of the 6th role are: 
+p6,
+p8
+The users of the 6th role are: 
+u1,
+u2,
+u4,
+u5
+
+--------------------------------------------------------
+The permissions of the 7th role are: 
+p1
+The users of the 7th role are: 
+u1,
+u2,
+u3,
+u4,
+u6,
+u7,
+u8,
+u9,
+u10
+
+--------------------------------------------------------
+The permissions of the 8th role are: 
+p1,
+p2,
+p4,
+p6,
+p9
+The users of the 8th role are: 
+u8
+
+--------------------------------------------------------
+The permissions of the 9th role are: 
+p1,
+p6
+The users of the 9th role are: 
+u1,
+u2,
+u3,
+u4,
+u8,
+u9,
+u10
+
+--------------------------------------------------------
+The permissions of the 10th role are: 
+p1,
+p2,
+p4,
+p5,
+p6
+The users of the 10th role are: 
+u10
+
+--------------------------------------------------------

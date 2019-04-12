@@ -1,0 +1,196 @@
+Fast Miner
+
+--------------------------------------------------------
+number of roles: 19
+The permissions of the 0th role are: 
+p4,
+p6,
+p7
+The users of the 0th role are: 
+u1,
+u2,
+u3
+
+--------------------------------------------------------
+The permissions of the 1th role are: 
+p1,
+p4,
+p6
+The users of the 1th role are: 
+u1,
+u4,
+u5
+
+--------------------------------------------------------
+The permissions of the 2th role are: 
+p4,
+p6
+The users of the 2th role are: 
+u1,
+u2,
+u3,
+u4,
+u5,
+u8,
+u10
+
+--------------------------------------------------------
+The permissions of the 3th role are: 
+p6,
+p7
+The users of the 3th role are: 
+u1,
+u2,
+u3,
+u9
+
+--------------------------------------------------------
+The permissions of the 4th role are: 
+p6
+The users of the 4th role are: 
+u1,
+u2,
+u3,
+u4,
+u5,
+u8,
+u9,
+u10,
+u11
+
+--------------------------------------------------------
+The permissions of the 5th role are: 
+p4,
+p6,
+p8
+The users of the 5th role are: 
+u2,
+u4,
+u5
+
+--------------------------------------------------------
+The permissions of the 6th role are: 
+p6,
+p7,
+p8
+The users of the 6th role are: 
+u2,
+u9
+
+--------------------------------------------------------
+The permissions of the 7th role are: 
+p2,
+p4,
+p6
+The users of the 7th role are: 
+u3,
+u4,
+u5,
+u8
+
+--------------------------------------------------------
+The permissions of the 8th role are: 
+p2,
+p6,
+p7
+The users of the 8th role are: 
+u3,
+u9
+
+--------------------------------------------------------
+The permissions of the 9th role are: 
+p2,
+p6
+The users of the 9th role are: 
+u3,
+u4,
+u5,
+u8,
+u9,
+u11
+
+--------------------------------------------------------
+The permissions of the 10th role are: 
+p2,
+p6,
+p8
+The users of the 10th role are: 
+u4,
+u5,
+u9
+
+--------------------------------------------------------
+The permissions of the 11th role are: 
+p1,
+p4,
+p6,
+p7
+The users of the 11th role are: 
+u1
+
+--------------------------------------------------------
+The permissions of the 12th role are: 
+p4,
+p6,
+p7,
+p8
+The users of the 12th role are: 
+u2
+
+--------------------------------------------------------
+The permissions of the 13th role are: 
+p2,
+p4,
+p6,
+p7
+The users of the 13th role are: 
+u3
+
+--------------------------------------------------------
+The permissions of the 14th role are: 
+p1,
+p2,
+p4,
+p6,
+p8
+The users of the 14th role are: 
+u4,
+u5
+
+--------------------------------------------------------
+The permissions of the 15th role are: 
+p2,
+p4,
+p6,
+p9,
+p10
+The users of the 15th role are: 
+u8
+
+--------------------------------------------------------
+The permissions of the 16th role are: 
+p2,
+p6,
+p7,
+p8,
+p11
+The users of the 16th role are: 
+u9
+
+--------------------------------------------------------
+The permissions of the 17th role are: 
+p4,
+p5,
+p6
+The users of the 17th role are: 
+u10
+
+--------------------------------------------------------
+The permissions of the 18th role are: 
+p2,
+p3,
+p6
+The users of the 18th role are: 
+u11
+
+--------------------------------------------------------
