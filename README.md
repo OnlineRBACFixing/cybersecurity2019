@@ -353,8 +353,6 @@ Corresponding input data are also available in the following:
 |8|[UA](dataset_multipleviolation/D/8/UA.txt)|[PA](dataset_multipleviolation/D/8/PA.txt)|[excs](dataset_multipleviolation/D/8/excs.txt)|[viols](dataset_multipleviolation/D/8/viols.txt)|
 |9|[UA](dataset_multipleviolation/D/9/UA.txt)|[PA](dataset_multipleviolation/D/9/PA.txt)|[excs](dataset_multipleviolation/D/9/excs.txt)|[viols](dataset_multipleviolation/D/9/viols.txt)|
 
-[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
-
 ##University
 |Run|UA|PA|Excs|Viols|
 |:-:	           |:---:	|:---:	|:---:	|:---:	|
