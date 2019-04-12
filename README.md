@@ -336,16 +336,40 @@ Corresponding input data are also available in the following:
 |8|[UA](dataset_multipleviolation/SC/8/UA.txt)|[PA](dataset_multipleviolation/SC/8/PA.txt)|[excs](dataset_multipleviolation/SC/8/excs.txt)|[viols](dataset_multipleviolation/SC/8/viols.txt)|
 |9|[UA](dataset_multipleviolation/SC/9/UA.txt)|[PA](dataset_multipleviolation/SC/9/PA.txt)|[excs](dataset_multipleviolation/SC/9/excs.txt)|[viols](dataset_multipleviolation/SC/9/viols.txt)|
 
+[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
 
 
-|Input| Link|  	   
-|:-:	           |:---:	|
-|Permission-to-User | [UPA](dataset/SC/UPA.txt)|
-|User-to-role      |[UA](dataset/SC/UA.txt)  |
-|Permission-to-Role | [PA](dataset/SC/PA.txt) |
-|Exception List           | [excs](dataset/SC/excs.txt)|
-|Violation List           | [viols](dataset/SC/viols.txt)|
+##Domino
+|Run|UA|PA|Excs|Viols|
+|:-:	           |:---:	|:---:	|:---:	|:---:	|
+|0|[UA](dataset_multipleviolation/D/0/UA.txt)|[PA](dataset_multipleviolation/D/0/PA.txt)|[excs](dataset_multipleviolation/D/0/excs.txt)|[viols](dataset_multipleviolation/D/0/viols.txt)|
+|1|[UA](dataset_multipleviolation/D/1/UA.txt)|[PA](dataset_multipleviolation/D/1/PA.txt)|[excs](dataset_multipleviolation/D/1/excs.txt)|[viols](dataset_multipleviolation/D/1/viols.txt)|
+|2|[UA](dataset_multipleviolation/D/2/UA.txt)|[PA](dataset_multipleviolation/D/2/PA.txt)|[excs](dataset_multipleviolation/D/2/excs.txt)|[viols](dataset_multipleviolation/D/2/viols.txt)|
+|3|[UA](dataset_multipleviolation/D/3/UA.txt)|[PA](dataset_multipleviolation/D/3/PA.txt)|[excs](dataset_multipleviolation/D/3/excs.txt)|[viols](dataset_multipleviolation/D/3/viols.txt)|
+|4|[UA](dataset_multipleviolation/D/4/UA.txt)|[PA](dataset_multipleviolation/D/4/PA.txt)|[excs](dataset_multipleviolation/D/4/excs.txt)|[viols](dataset_multipleviolation/D/4/viols.txt)|
+|5|[UA](dataset_multipleviolation/D/5/UA.txt)|[PA](dataset_multipleviolation/D/5/PA.txt)|[excs](dataset_multipleviolation/D/5/excs.txt)|[viols](dataset_multipleviolation/D/5/viols.txt)|
+|6|[UA](dataset_multipleviolation/D/6/UA.txt)|[PA](dataset_multipleviolation/D/6/PA.txt)|[excs](dataset_multipleviolation/D/6/excs.txt)|[viols](dataset_multipleviolation/D/6/viols.txt)|
+|7|[UA](dataset_multipleviolation/D/7/UA.txt)|[PA](dataset_multipleviolation/D/7/PA.txt)|[excs](dataset_multipleviolation/D/7/excs.txt)|[viols](dataset_multipleviolation/D/7/viols.txt)|
+|8|[UA](dataset_multipleviolation/D/8/UA.txt)|[PA](dataset_multipleviolation/D/8/PA.txt)|[excs](dataset_multipleviolation/D/8/excs.txt)|[viols](dataset_multipleviolation/D/8/viols.txt)|
+|9|[UA](dataset_multipleviolation/D/9/UA.txt)|[PA](dataset_multipleviolation/D/9/PA.txt)|[excs](dataset_multipleviolation/D/9/excs.txt)|[viols](dataset_multipleviolation/D/9/viols.txt)|
 
+[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
+
+##University
+|Run|UA|PA|Excs|Viols|
+|:-:	           |:---:	|:---:	|:---:	|:---:	|
+|0|[UA](dataset_multipleviolation/U/0/UA.txt)|[PA](dataset_multipleviolation/U/0/PA.txt)|[excs](dataset_multipleviolation/U/0/excs.txt)|[viols](dataset_multipleviolation/U/0/viols.txt)|
+|1|[UA](dataset_multipleviolation/U/1/UA.txt)|[PA](dataset_multipleviolation/U/1/PA.txt)|[excs](dataset_multipleviolation/U/1/excs.txt)|[viols](dataset_multipleviolation/U/1/viols.txt)|
+|2|[UA](dataset_multipleviolation/U/2/UA.txt)|[PA](dataset_multipleviolation/U/2/PA.txt)|[excs](dataset_multipleviolation/U/2/excs.txt)|[viols](dataset_multipleviolation/U/2/viols.txt)|
+|3|[UA](dataset_multipleviolation/U/3/UA.txt)|[PA](dataset_multipleviolation/U/3/PA.txt)|[excs](dataset_multipleviolation/U/3/excs.txt)|[viols](dataset_multipleviolation/U/3/viols.txt)|
+|4|[UA](dataset_multipleviolation/U/4/UA.txt)|[PA](dataset_multipleviolation/U/4/PA.txt)|[excs](dataset_multipleviolation/U/4/excs.txt)|[viols](dataset_multipleviolation/U/4/viols.txt)|
+|5|[UA](dataset_multipleviolation/U/5/UA.txt)|[PA](dataset_multipleviolation/U/5/PA.txt)|[excs](dataset_multipleviolation/U/5/excs.txt)|[viols](dataset_multipleviolation/U/5/viols.txt)|
+|6|[UA](dataset_multipleviolation/U/6/UA.txt)|[PA](dataset_multipleviolation/U/6/PA.txt)|[excs](dataset_multipleviolation/U/6/excs.txt)|[viols](dataset_multipleviolation/U/6/viols.txt)|
+|7|[UA](dataset_multipleviolation/U/7/UA.txt)|[PA](dataset_multipleviolation/U/7/PA.txt)|[excs](dataset_multipleviolation/U/7/excs.txt)|[viols](dataset_multipleviolation/U/7/viols.txt)|
+|8|[UA](dataset_multipleviolation/U/8/UA.txt)|[PA](dataset_multipleviolation/U/8/PA.txt)|[excs](dataset_multipleviolation/U/8/excs.txt)|[viols](dataset_multipleviolation/U/8/viols.txt)|
+|9|[UA](dataset_multipleviolation/U/9/UA.txt)|[PA](dataset_multipleviolation/U/9/PA.txt)|[excs](dataset_multipleviolation/U/9/excs.txt)|[viols](dataset_multipleviolation/U/9/viols.txt)|
+
+[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
 
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
