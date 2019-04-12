@@ -1,0 +1,186 @@
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+3,
+4
+The users of role are?
+u1,
+u2,
+u3,
+u9
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+3,
+5
+The users of role are?
+u1,
+u2,
+u5,
+u9
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+3
+The users of role are?
+u1,
+u2,
+u3,
+u5,
+u8,
+u9,
+u10,
+u11
+The weight of role is?18.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+3
+The users of role are?
+u2,
+u3,
+u5,
+u9,
+u10,
+u11
+The weight of role is?20.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+3,
+4,
+5
+The users of role are?
+u1,
+u2,
+u9
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+3,
+4,
+5
+The users of role are?
+u2,
+u9
+The weight of role is?2.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+3,
+4
+The users of role are?
+u2,
+u3,
+u9
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+1
+The users of role are?
+u2,
+u3,
+u4,
+u5,
+u9,
+u10,
+u11
+The weight of role is?12.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+3,
+5
+The users of role are?
+u2,
+u5,
+u9
+The weight of role is?4.0
+
+--------------------------------------------------------
+The permissions of role are?
+0
+The users of role are?
+u1,
+u2,
+u3,
+u5,
+u6,
+u7,
+u8,
+u9,
+u10,
+u11
+The weight of role is?34.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+3,
+6,
+7
+The users of role are?
+u8
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+3,
+4,
+5,
+8
+The users of role are?
+u9
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+9,
+3
+The users of role are?
+u10
+The weight of role is?0.0
+
+--------------------------------------------------------
+The permissions of role are?
+0,
+1,
+10,
+3
+The users of role are?
+u11
+The weight of role is?0.0
+
+--------------------------------------------------------
+Numero dei ruoli=14
+Permesso 0 : p1
+Permesso 1 : p2
+Permesso 2 : p4
+Permesso 3 : p6
+Permesso 4 : p7
+Permesso 5 : p8
+Permesso 6 : p9
+Permesso 7 : p10
+Permesso 8 : p11
+Permesso 9 : p5
+Permesso 10 : p3
