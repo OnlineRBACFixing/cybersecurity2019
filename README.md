@@ -379,7 +379,7 @@ Results for addition/removal of multiple exceptions/violations
 
 - [SmallComp](preferenceImpactMaintenanceMultiple/AVG_solver_toy_t_600_100_p_5.txt)
 - [Domino](preferenceImpactMaintenanceMultiple/AVG_solver_domino_t_500_100_p_5.txt)
-- [University](preferenceImpactMaintenanceMultiple/AVG_solver_university_large_t_1600_100_p_5.txt)
+- [University](preferenceImpactMaintenanceMultiple/AVG_solver_university_large_t_1600_400_p_5.txt)
 
 
 **SmallComp**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
