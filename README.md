@@ -427,7 +427,6 @@ Input RBAC state: UA, PA, viols
 
 |Run 0| Run 1|Run 2|Run 3|Run 4|Run 5|Run 6|Run 7|Run 8|Run 9|
 |:-:	 |:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|
-
 |Beta 0.0|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
 |Beta 0.05|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
 |Beta 0.1|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
@@ -441,17 +440,6 @@ Input RBAC state: UA, PA, viols
 |Beta 0.50|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
 
 
-
-/*:
-|Beta 0.0|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20000.pddl)[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20000.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20001.pddl)|[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20002.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20003.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20004.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20005.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20006.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20007.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20008.pddl)|
-[link](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_20009.pddl)|
-*/
 
 
 # License
