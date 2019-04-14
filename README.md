@@ -377,19 +377,19 @@ Here we asses experimentally multiple exceptions and multiple violations in one 
 
 Results for addition/removal of multiple exceptions/violations
 
-- [SmallComp](preferenceImpactMaintenanceMultiple\AVG_solver_toy_t_600_100_p_5.txt)
-- [Domino](preferenceImpactMaintenanceMultiple\AVG_solver_domino_t_500_100_p_5.txt)
-- [University](preferenceImpactMaintenanceMultiple\AVG_solver_university_large_t_800_100_p_5.txt)
+- [SmallComp](preferenceImpactMaintenanceMultiple/AVG_solver_toy_t_600_100_p_5.txt)
+- [Domino](preferenceImpactMaintenanceMultiple/AVG_solver_domino_t_500_100_p_5.txt)
+- [University](preferenceImpactMaintenanceMultiple/AVG_solver_university_large_t_800_100_p_5.txt)
 
 
 **SmallComp**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
-![smallcomp_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple\toy_multiple_violations.png)
+![smallcomp_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple/toy_multiple_violations.png)
 
 **Domino**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
-![domino_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple\domino_multiple_violations.png)
+![domino_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple/domino_multiple_violations.png)
 
 **University**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
-![university_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple\university_multiple_violations.png)
+![university_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple/university_multiple_violations.png)
 
 
 
