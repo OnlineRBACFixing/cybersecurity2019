@@ -413,6 +413,15 @@ Results for addition/removal of multiple exceptions/violations
 
 ## SmallComp
 
+### Run 0
+
+Input RBAC state: UA, PA, viols
+
+|Beta|PDDL instance|Output Plan|
+|:-:|:--:|:--:|
+|0.0|[probem]()|[plan]()|
+|0.0|[probem]()|[plan]()|
+|0.0|[probem]()|[plan]()|
 
 
 
