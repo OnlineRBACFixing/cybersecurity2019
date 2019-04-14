@@ -389,7 +389,7 @@ Results for addition/removal of multiple exceptions/violations
 ![domino_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple/domino_multiple_violations.png)
 
 **University**. Average simplicity and similarity (y axis) as a function of the balance B (x axis) with 21 values of B sampled at regular intervals:
-![university_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple/university_multiple_violations.png)
+![university_optsim_excs_viols.png](preferenceImpactMaintenanceMultiple/university_large_multiple_violations.png)
 
 
 
