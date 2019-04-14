@@ -336,7 +336,7 @@ Corresponding input data are also available in the following:
 |8|[UA](dataset_multipleviolation/SC/8/UA.txt)|[PA](dataset_multipleviolation/SC/8/PA.txt)|[excs](dataset_multipleviolation/SC/8/excs.txt)|[viols](dataset_multipleviolation/SC/8/viols.txt)|
 |9|[UA](dataset_multipleviolation/SC/9/UA.txt)|[PA](dataset_multipleviolation/SC/9/PA.txt)|[excs](dataset_multipleviolation/SC/9/excs.txt)|[viols](dataset_multipleviolation/SC/9/viols.txt)|
 
-[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
+[All Max-SAT Formulas](https://www.dropbox.com/s/5ldrevtuwpuc7e9/role_smallcomp_multiple.zip?dl=0)
 
 
 ## Domino
@@ -353,7 +353,7 @@ Corresponding input data are also available in the following:
 |8|[UA](dataset_multipleviolation/D/8/UA.txt)|[PA](dataset_multipleviolation/D/8/PA.txt)|[excs](dataset_multipleviolation/D/8/excs.txt)|[viols](dataset_multipleviolation/D/8/viols.txt)|
 |9|[UA](dataset_multipleviolation/D/9/UA.txt)|[PA](dataset_multipleviolation/D/9/PA.txt)|[excs](dataset_multipleviolation/D/9/excs.txt)|[viols](dataset_multipleviolation/D/9/viols.txt)|
 
-[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
+[All Max-SAT Formulas](https://www.dropbox.com/s/d0e2excx6zf86fo/role_domino_multiple.zip?dl=0)
 
 ## University
 |Run|UA|PA|Excs|Viols|
@@ -369,7 +369,7 @@ Corresponding input data are also available in the following:
 |8|[UA](dataset_multipleviolation/U/8/UA.txt)|[PA](dataset_multipleviolation/U/8/PA.txt)|[excs](dataset_multipleviolation/U/8/excs.txt)|[viols](dataset_multipleviolation/U/8/viols.txt)|
 |9|[UA](dataset_multipleviolation/U/9/UA.txt)|[PA](dataset_multipleviolation/U/9/PA.txt)|[excs](dataset_multipleviolation/U/9/excs.txt)|[viols](dataset_multipleviolation/U/9/viols.txt)|
 
-[All Max-SAT Formulas](https://www.dropbox.com/s/nqeygseycj675ze/domino.tar?dl=0)
+[All Max-SAT Formulas](https://www.dropbox.com/s/0y4dbumizahgh8n/role_university_multiple.zip?dl=0)
 
 
 # Dataset Planning
