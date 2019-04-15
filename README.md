@@ -472,7 +472,7 @@ In the following, (I/O) stands for (Input PDDL problem/Output plan)
 
 # Experimental Results: Planning
 
-Here we evaluate the quality of the maintenance plan generated with our algorithms. The quality of plans (shortness) is compared with two baselines: **rewrite** which erases the input RBAC state to build from scratch the target state; **diff** which adjusts the differences between target and input states.
+Here we evaluate the quality of the maintenance plans (shortness) generated with our algorithms. We compared our results with two baselines: **rewrite** which erases the input RBAC state to build from scratch the target state; **diff** which adjusts the differences between target and input states.
 
 
 **SmallComp**. Average and best number of actions (y axis) as a function of the balance beta (x axis) for multiple pseudo-randomly generated violations:
