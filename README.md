@@ -413,7 +413,7 @@ Results for addition/removal of multiple exceptions/violations
 
 
 
-# Dataset: Planning
+# Datasets: Planning
 
 These benchmarks have been adopted to prove the ability of our algorithms in generating maintenance plans to include sequences of violations. The latter (10 runs) have been pseudo-randomly generated according to a specific Markov chain model. 
 In the following, (I/O) stands for (Input PDDL problem/Output plan) 
