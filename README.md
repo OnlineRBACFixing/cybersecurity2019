@@ -1,8 +1,8 @@
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-# On the Use of Max-SAT in RBAC Maintenance
+# On the Use of Max-SAT and PDDL in RBAC Maintenance
 
-This web site contains the dataset and experimental results partially illustrated within the manuscript "On the Use of Max-SAT in RBAC Maintenance" which has been submitted to the Cybersecurity journal.
+This web site contains the dataset and experimental results partially illustrated within the manuscript "On the Use of Max-SAT and PDDL  in RBAC Maintenance" which has been submitted to the Cybersecurity journal.
 
 # Datasets: Single Exceptions/Violations
 
@@ -150,7 +150,7 @@ Results are also available in plain text in [rates.txt](qualityIncompleteMainten
 
 ## Impact of Beta
 
-By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset. We considered both single exceptions and single violations to inlcude in the initial RBAC state.
+By adopting CCEHC Max-SAT solver we asses experimentally the impact of balance B to **sim** (similarity) and **spt** (simplicity) for three dataset. We considered both single exceptions and single violations to inlcude in the initial RBAC state.
 
 Results for additions of exceptions
 
@@ -321,6 +321,8 @@ Corresponding input data are also available in the following:
 
 # Datasets: Multiple Exceptions/Violations
 
+These benchmarks have been adopted to prove the ability of our algorithms in including lists of exceptions and violations in one single step. Sequences of exceptions and violations (10 runs) have been pseudo-randomly generated according to a specific Markov chain model.
+
 ## SmallComp
 
 |Run|UA|PA|Excs|Viols|
@@ -375,7 +377,7 @@ Corresponding input data are also available in the following:
 
 # Experimental Results: Multiple Exceptions/Violations
 
-Here we asses experimentally multiple exceptions and multiple violations in one single problem instance. We evaluate the impact of balance B to **sim** (similarity) and **opt** (simplicity) for three dataset.
+Here we asses experimentally multiple exceptions and multiple violations in one single problem instance. We evaluate the impact of balance B to **sim** (similarity) and **spt** (simplicity) for three dataset.
 
 Results for addition/removal of multiple exceptions/violations
 
@@ -413,6 +415,10 @@ Results for addition/removal of multiple exceptions/violations
 
 # Dataset Planning
 
+These benchmarks have been adopted to prove the ability of our algorithms in generating maintenance plans to include sequences of violations. The latter (10 runs) have been pseudo-randomly generated according to a specific Markov chain model. 
+In the following, (I/O) stands for (Input PDDL problem/Output plan) 
+
+
 ## SmallComp
 
 
@@ -442,6 +448,7 @@ Results for addition/removal of multiple exceptions/violations
 |Beta 1.0|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_0.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_0.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_1.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_1.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_2.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_2.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_3.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_3.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_4.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_4.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_5.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_5.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_6.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_6.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_7.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_7.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_8.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_8.plan)|[I](dataset_planning/SC/pddlformula/role_smallcomp_planning_1.0_9.pddl)/[O](dataset_planning/SC/outplan/role_smallcomp_output_plan_1.0_9.plan)|
 
 [All Max-SAT Formulas](https://www.dropbox.com/s/ld5mlo7mdfpkgo5/role_smallcomp_input_planning.zip?dl=0)
+[All PDDL Instances](https://www.dropbox.com/s/fjn3vc2cjl3pd3y/role_smallcomp_planning.zip?dl=0)
 
 ## Domino
 
@@ -460,9 +467,12 @@ Results for addition/removal of multiple exceptions/violations
 |Beta 0.5|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_0.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_0.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_1.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_1.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_2.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_2.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_3.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_3.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_4.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_4.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_5.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_5.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_6.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_6.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_7.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_7.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_8.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_8.plan)|[I](dataset_planning/D/pddlformula/role_smallcomp_planning_0.5_9.pddl)/[O](dataset_planning/D/outplan/role_smallcomp_output_plan_0.5_9.plan)|
 
 [All Max-SAT Formulas](https://www.dropbox.com/s/3wqq9oa9gpzuzjk/role_domino_input_planning.zip?dl=0)
+[All PDDL Instances](https://www.dropbox.com/s/tlhijei60tftrw2/role_domino_planning.zip?dl=0)
 
 
-# Experimental Results
+# Experimental Results: Planning
+
+Here we evaluate the quality of the maintenance plan generated with our algorithms. The quality of plans (shortness) is compared with two baselines: **rewrite** which erases the input RBAC state to build from scratch the target state; **diff** which adjusts the differences between target and input states.
 
 
 **SmallComp**. Average and best number of actions (y axis) as a function of the balance beta (x axis) for multiple pseudo-randomly generated violations:
