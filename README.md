@@ -461,6 +461,20 @@ Results for addition/removal of multiple exceptions/violations
 
 [All Max-SAT Formulas](https://www.dropbox.com/s/3wqq9oa9gpzuzjk/role_domino_input_planning.zip?dl=0)
 
+
+# Experimental Results
+
+
+**SmallComp**. Average and best number of actions (y axis) as a function of the balance beta (x axis) for multiple pseudo-randomly generated violations:
+
+![smallcomp_actions_avg_best.png](dataset_planning/smallcomp_actions_avg_best.png)
+
+**Domino**. Average and best number of actions (y axis) as a function of the balance beta (x axis) for multiple pseudo-randomly generated violations:
+
+![domino_actions_avg_best.png](dataset_planning/domino_actions_avg_best.png)
+
+
+
 # License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
