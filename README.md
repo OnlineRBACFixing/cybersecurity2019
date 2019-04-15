@@ -413,21 +413,12 @@ Results for addition/removal of multiple exceptions/violations
 
 ## SmallComp
 
-### Run 0
-
-Input RBAC state: UA, PA, viols
-
-|Beta|PDDL instance|Output Plan|
-|:-:|:--:|:--:|
-|0.0|[probem]()|[plan]()|
-|0.0|[probem]()|[plan]()|
-|0.0|[probem]()|[plan]()|
-
 
 
 |Beta/Run|Run 0| Run 1|Run 2|Run 3|Run 4|Run 5|Run 6|Run 7|Run 8|Run 9|
 |:-:	 |:--:|:---:	|:---:	|:---:	|:---:	| :--:|:-:	           |:---:	|:---:	|:---:	|
-|Beta 0.0|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
+|Beta 0.0|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_0.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_0.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_1.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_1.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_2.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_2.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_3.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_3.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_4.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_4.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_5.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_5.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_6.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_6.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_7.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_7.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_8.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_8.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.0_9.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.0_9.plan)|
+|Beta 0.05|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_0.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_0.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_1.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_1.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_2.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_2.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_3.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_3.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_4.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_4.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_5.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_5.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_6.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_6.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_7.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_7.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_8.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_8.plan)|[I](dataset_planning\SC\pddlformula\role_smallcomp_planning_0.05_9.pddl)/[O](dataset_planning\SC\outplan\role_smallcomp_output_plan_0.05_9.plan)|
 |Beta 0.05|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
 |Beta 0.1|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
 |Beta 0.15|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|[I]()/[O]()|
