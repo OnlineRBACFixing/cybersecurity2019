@@ -1,0 +1,8 @@
+(assignpermissiontorole role6 permission3)
+(swappermissionfromroletorole role7 role3 permission0)
+(removerolefromallusers role3)
+(removeallpermissionsfromrole role4)
+(removeallrolesfromuser user1)
+(removeallrolesfromuser user2)
+(removerolefromuser user7 role7)
+; cost = 7 (unit cost)
